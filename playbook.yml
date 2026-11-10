@@ -11,4 +11,4 @@
       - "fizfak.com"
       - "mehmat.ru"
   roles:
-    - nginx-vhosts
+    - nginx_vhosts
